@@ -37,11 +37,11 @@ Você pode rodar via navegador ou instalar localmente:
 
 1. Requer Python 3.6+ e `pip`
 2. Instale o ProbLog via pip:
+3. Execute o código
 
 ```bash
 pip install problog
 
-3. Execute o código
 
 ```bash
 problog codigoProblog.pl
